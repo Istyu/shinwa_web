@@ -96,6 +96,33 @@ nav
 	top: 100px;
 	right: 150px;
 }
+.ejectortext
+{
+	width: 90%;
+	max-width: 390px;
+	/*position: absolute;*/
+	top: 50%;
+	left: 50%;
+	transform: translate(5%, 15%);
+	background: linear-gradient(to right, rgba(20, 20, 100, 0.9), rgba(20, 30, 50, 0.8));
+	padding: 20px 10px 20px;
+	text-align: left;
+	color: orange;
+}
+
+/* 26 */
+.toolpneutext
+{
+	width: 90%;
+	max-width: 390px;
+	top: 50%;
+	left: 50%;
+	transform: translate(5%, 20%);
+	background: linear-gradient(to right, rgba(20, 20, 100, 0.9), rgba(20, 30, 50, 0.8));
+	padding: 20px 10px 20px;
+	text-align: left;
+	color: orange;
+}
 
 /* high press temp */
 .temp img
